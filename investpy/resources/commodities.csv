@@ -1,5 +1,5 @@
 title,country,id,name,full_name,tag,currency,group
-Gold Spot US Dollar,,68,XAU/USD,Gold Spot US Dollar,xauusd,USD,metals
+Gold Spot US Dollar,,68,XAU/USD,Gold Spot US Dollar,xau-usd,USD,metals
 Real Time Streaming Futures Quotes,,8830,Gold,Gold Futures,gold,USD,metals
 Real Time Streaming Futures Quotes,united states,8831,Copper,Copper Futures,copper,USD,metals
 Real Time Streaming Futures Quotes,,8836,Silver,Silver Futures,silver,USD,metals

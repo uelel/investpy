@@ -608,7 +608,8 @@ def get_commodity_historical_data(commodity, from_date, to_date, country=None, a
                     commodity_high = float(info[3].replace(',', ''))
                     commodity_low = float(info[4].replace(',', ''))
 
-                    commodity_volume = int(info[5])
+                    try: commodity_volume = int(info[5])
+                    except TypeError: commodity_volume = None
 
                     result.insert(len(result),
                                   Data(commodity_date, commodity_open, commodity_high, commodity_low,
