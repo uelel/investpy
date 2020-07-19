@@ -1,4 +1,5 @@
 title,country,id,name,full_name,tag,currency,group
+Brent Spot US Dollar,,1081628,XBR/USD,Brent Spot US Dollar,xbr-usd,USD,energy
 Gold Spot US Dollar,,68,XAU/USD,Gold Spot US Dollar,xau-usd,USD,metals
 Silver Spot US Dollar,,69,XAG/USD,Silver Spot US Dollar,xag-usd,USD,metals
 Real Time Streaming Futures Quotes,,8830,Gold,Gold Futures,gold,USD,metals
