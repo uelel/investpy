@@ -6845,7 +6845,7 @@ world,Bloomberg Grains TR,Bloomberg Grains TR,bbg-grains-tr,951123,BCOMGRTR,USD,
 world,Bloomberg Grains 3 Month Fwd TR,Bloomberg Grains 3 Month Fwd TR,bbg-grains-3-month-fwd-tr,951122,BCOMGR3T,USD,commodities,global_indices
 world,Bloomberg Gold 3 Month Fwd,Bloomberg Gold 3 Month Fwd,bbg-gold-3-month-fwd,951120,BCOMGC3,USD,commodities,global_indices
 world,Bloomberg Coffee,Bloomberg Coffee,bloomberg-coffee,948445,BCOMKC,USD,commodities,global_indices
-world,Bloomberg Industrial Metals,Bloomberg Industrial Metals,bloomberg-industrial-metals,948444,BCOMIN,USD,commodities,global_indices
+world,BCOMIN,Bloomberg Industrial Metals,bloomberg-industrial-metals,948444,BCOMIN,USD,commodities,global_indices
 world,Bloomberg Copper TR,Bloomberg Copper TR,bloomberg-copper-tr,948443,BCOMHGTR,USD,commodities,global_indices
 world,TR/CC CRB Soybeans,Thomson Reuters/CoreCommodity CRB Soybeans,reuters-jefferies-crb-soybeans,39981,TRCCRBS,EUR,commodities,global_indices
 world,TR/CC CRB Aluminum,Thomson Reuters/CoreCommodity CRB Aluminum,reuters-jefferies-crb-aluminum,39980,TRCCRBAH,EUR,commodities,global_indices
@@ -6883,8 +6883,8 @@ world,Bloomberg Corn,Bloomberg Corn,bloomberg-corn,948439,BCOMCN,USD,commodities
 world,Bloomberg WTI Crude Oil,Bloomberg WTI Crude Oil,bloomberg-wti-crude-oil,948438,BCOMCL,USD,commodities,global_indices
 world,Bloomberg Soybean Oil,Bloomberg Soybean Oil,bloomberg-soybean-oil,948437,BCOMBO,USD,commodities,global_indices
 world,Bloomberg Aluminum,Bloomberg Aluminum,bloomberg-aluminum,948436,BCOMAL,USD,commodities,global_indices
-world,Bloomberg Agriculture,Bloomberg Agriculture,bloomberg-agriculture,948435,BCOMAG,USD,commodities,global_indices
-world,Bloomberg Commodity,Bloomberg Commodity,bloomberg-commodity,948434,BCOM,USD,commodities,global_indices
+world,BCOMAG,Bloomberg Agriculture,bloomberg-agriculture,948435,BCOMAG,USD,commodities,global_indices
+world,BCOM,Bloomberg Commodity,bloomberg-commodity,948434,BCOM,USD,commodities,global_indices
 world,Bloomberg Natural Gas GBP,Bloomberg Natural Gas GBP,bloomberg-natural-gas-gbp,943742,BUNGDPT,GBP,commodities,global_indices
 world,Bloomberg Softs TR,Bloomberg Softs TR,bloomberg-softs-tr,943740,BCOMSOTR,USD,commodities,global_indices
 world,Bloomberg Agriculture 3 Mon,Bloomberg Agriculture 3 Mon,bloomberg-agriculture-3-mon,943739,BCOMAG3T,USD,commodities,global_indices
