@@ -1,5 +1,5 @@
 name,tag,symbol,id,currency,status
-Bitcoin,btcusd,BTC,1057391,USD,available
+btcusd,bitcoin,BTC,1057391,USD,available
 Ethereum,ethereum,ETH,1061443,USD,available
 Binance Coin,binance-coin,BNB,1061448,USD,available
 Tether,tether,USDT,1061453,USD,available
